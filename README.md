@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kirushalini!
 
-<!--
-**Kirushalini/Kirushalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m an undergraduate student passionate about **Cybersecurity** and **Ethical Hacking**.  
+🔐 Currently exploring tools and techniques in the world of information security.  
+💻 Learning by doing – from scripting tools to breaking into vulnerable machines (legally of course 😄).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Learning
+🧠 Ethical Hacking (Web, Network, Cryptography)
+🐍 Python – for general programming & cybersecurity scripting
+⚖️ Cyber Law – understanding digital rights, privacy, and legal aspects of hacking
+🐧 Linux & Bash – mastering the command-line for system navigation
+🌐 Security Tools – Wireshark, Nmap, GNS3
+
+---
+
+🔗 Check out my repositories for more!
+
+---
+
+### 🏆 Achievements & Learning
+- ✅ Completed "Ethical Hacking Masterclass"  
+- 🔐 Solved 50+ rooms on **TryHackMe**  
+- 🛡️ Participant in **CTF competitions** and cybersecurity bootcamps  
+- 📚 Actively studying networking, Linux, and malware analysis
+
+---
+
+### 🌱 Currently Working On:
+- Building more hands-on **cybersecurity tools**
+- Improving **Linux & networking** knowledge
+- Participating in **CTFs and labs**
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: kirukirushalini84@email.com  
+- 🔗 [LinkedIn][(https://linkedin.com/in/YOURUSERNAME)](https://www.linkedin.com/in/nagalingam-kirushalini-34b99b268)  
+- 🌍 Location: Sri Lanka
+
+---
+
+> _“The quieter you become, the more you can hear.” – Ram Dass_  
+> _Let's build and break (ethically) 🌐_
+
