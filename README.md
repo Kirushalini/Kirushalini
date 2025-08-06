@@ -21,9 +21,8 @@
 
 ### 🏆 Achievements & Learning
 - ✅ Completed "Ethical Hacking Masterclass"  
-- 🔐 Solved 50+ rooms on **TryHackMe**  
 - 🛡️ Participant in **CTF competitions** and cybersecurity bootcamps  
-- 📚 Actively studying networking, Linux, and malware analysis
+- 📚 Actively studying Networking, Linux, Cybercrime and Kund Fu
 
 ---
 
