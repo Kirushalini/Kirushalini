@@ -35,7 +35,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: kirukirushalini84@email.com  
-- 🔗 [LinkedIn][(https://linkedin.com/in/YOURUSERNAME)](https://www.linkedin.com/in/nagalingam-kirushalini-34b99b268)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nagalingam-kirushalini-34b99b268 
 - 🌍 Location: Sri Lanka
 
 ---
