@@ -2,7 +2,7 @@
 
 🎓 I’m an undergraduate student passionate about **Cybersecurity** and **Ethical Hacking**.  
 🔐 Currently exploring tools and techniques in the world of information security.  
-💻 Learning by doing – from scripting tools to breaking into vulnerable machines (legally of course 😄).
+💻 Learning by doing from scripting tools to breaking into vulnerable machines (legally of course 😄).
 
 ---
 
@@ -17,7 +17,9 @@
 
 🔗 Check out my repositories for more!
 
----
+https://github.com/Kirushalini/Python-Keylogger
+
+https://github.com/Kirushalini/Lal-Nihal-Autoworks-OOP-Java
 
 ### 🏆 Achievements & Learning
 - ✅ Completed "Ethical Hacking Masterclass"  
